@@ -1,0 +1,51 @@
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.exe
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.deps.json
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.runtimeconfig.json
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.dll
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.pdb
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.csproj.AssemblyReference.cache
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.csproj.GenerateResource.cache
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.AssemblyInfoInputs.cache
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.AssemblyInfo.cs
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.csproj.CoreCompileInputs.cache
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.dll
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\refint\EMI_Calculator.dll
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.pdb
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.genruntimeconfig.cache
+D:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\ref\EMI_Calculator.dll
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.exe
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.deps.json
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.runtimeconfig.json
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.dll
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\bin\Debug\net7.0-windows\EMI_Calculator.pdb
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.csproj.AssemblyReference.cache
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.EMI_Form.resources
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.csproj.GenerateResource.cache
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.AssemblyInfoInputs.cache
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.AssemblyInfo.cs
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.csproj.CoreCompileInputs.cache
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.dll
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\refint\EMI_Calculator.dll
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.pdb
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\EMI_Calculator.genruntimeconfig.cache
+E:\Dev\Csharp\Window form Apps\WinFormsApp1\obj\Debug\net7.0-windows\ref\EMI_Calculator.dll
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\bin\Debug\net7.0-windows\EMI_Calculator.exe
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\bin\Debug\net7.0-windows\EMI_Calculator.deps.json
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\bin\Debug\net7.0-windows\EMI_Calculator.runtimeconfig.json
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\bin\Debug\net7.0-windows\EMI_Calculator.dll
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\bin\Debug\net7.0-windows\EMI_Calculator.pdb
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.csproj.AssemblyReference.cache
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\WinFormsApp1.FormEMI.resources
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.csproj.GenerateResource.cache
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.AssemblyInfoInputs.cache
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.AssemblyInfo.cs
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.csproj.CoreCompileInputs.cache
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.dll
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\refint\EMI_Calculator.dll
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.pdb
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\EMI_Calculator.genruntimeconfig.cache
+D:\1.Norton-University\Year II, Semester2, Academic Software Development\EMICalculator\obj\Debug\net7.0-windows\ref\EMI_Calculator.dll
